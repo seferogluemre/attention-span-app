@@ -1,0 +1,15 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    background-image: url('https://seferogluticaret.netlify.app/img.jpg');
+    color: whitesmoke !important;
+}
+.resources a{
+    color: whitesmoke !important;
+    text-decoration: none;
+    transition: 0.3s all ease-in-out;
+}
+.resources a:hover{
+    color: rgb(76, 148, 175) !important;
+    transform: scale(1.1);
+}
